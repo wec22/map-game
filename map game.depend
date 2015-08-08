@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1431614884 source:/home/eli/Documents/C_Programs/personal/map game/main.c
+	<stdio.h>
+	<stdlib.h>
+	"mapgame.h"
+
+1431525549 /home/eli/Documents/C_Programs/personal/map game/getch.h
+	<termios.h>
+	<stdio.h>
+
+1431542202 /home/eli/Documents/C_Programs/personal/map game/mapgame.h
+	<stdio.h>
+	<conio.h>
+	<termios.h>
+
